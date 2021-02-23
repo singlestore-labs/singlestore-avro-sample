@@ -1,0 +1,12 @@
+{
+  "name": "singlestore-avro-sample",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "avro-schema-registry": "^1.1.0",
+    "avsc": "^5.4.3",
+    "axios": "^0.21.1",
+    "kafka-node": "3.0.1"
+  }
+}
