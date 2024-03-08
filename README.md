@@ -1,6 +1,8 @@
 SingleStore AVRO Sample
 =======================
 
+**Attention**: The code in this repository is intended for experimental use only and is not fully tested, documented, or supported by SingleStore. Visit the [SingleStore Forums](https://www.singlestore.com/forum/) to ask questions about this repository.
+
 SingleStore is great at loading data in Avro format.  This sample shows both how to load specific files, and how to create a pipeline that'll continuously load files in AVRO format.
 
 
